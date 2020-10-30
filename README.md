@@ -24,3 +24,6 @@ Preprocessing, prediction, ...
 
     TS_Forcasting.py
     ARIMA model for time series forecasting
+    
+    TSpredPytorch_LSTM.py
+    A simple LSTM model for time series prediction in Pytorch
