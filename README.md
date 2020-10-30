@@ -22,5 +22,5 @@ Preprocessing, prediction, ...
     - Frequency and resampling
     - Rolling method
 
-TS_Forcasting.py
-ARIMA model for time series forecasting
+    TS_Forcasting.py
+    ARIMA model for time series forecasting
