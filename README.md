@@ -27,3 +27,6 @@ Preprocessing, prediction, ...
     
     TSpredPytorch_LSTM.py
     A simple LSTM model for time series prediction in Pytorch
+    
+    TS_prediction_comb_text.py
+    Combining time series and text for time series prediction
